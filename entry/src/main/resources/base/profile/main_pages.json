@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/day1/BaiduDemo",
+    "pages/day1/Layout",
+    "pages/day1/TikTok",
+    "pages/day2/MyForm",
+    "pages/day2/ScrollPage",
+    "pages/day3/Zhuhu",
+    "pages/day4/Tab",
+    "pages/day4/Setting",
+    "pages/day4/ForEachCase02"
+  ]
+}
